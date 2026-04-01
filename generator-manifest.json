@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "vfd controller",
+  "description_recipe": "vfd controller",
+  "history_source_dir": "INIVFDControl",
+  "internal_package_name": "enigma2-plugin-systemplugins-vfdcontrol",
+  "module_dir_name": "INIVFDControl",
+  "output_subdir": "INIVFDControl",
+  "package_name": "enigma2-plugin-systemplugins-vfdcontrol-i-n-i-v-f-d-control",
+  "plugin_src_rel": "INIVFDControl",
+  "python_package": "INIVFDControl",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "INIVFDControl",
+  "rrecommends": "",
+  "rreplaces": ""
+}
