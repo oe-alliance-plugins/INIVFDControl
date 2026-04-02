@@ -46,10 +46,10 @@ class Channelnumber:
 		self.zaPrik.start(1000, 1)
 		self.onClose = []
 
-		#self.__event_tracker = ServiceEventTracker(screen=self,eventmap=
-		#	{
-		#		iPlayableService.evUpdatedEventInfo: self.__eventInfoChanged
-		#	})
+		# self.__event_tracker = ServiceEventTracker(screen=self,eventmap=
+		# {
+		# iPlayableService.evUpdatedEventInfo: self.__eventInfoChanged
+		# })
 
 		self.__event_tracker = False
 
