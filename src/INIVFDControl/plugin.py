@@ -16,7 +16,7 @@ from time import localtime, time
 try:
 	from Components.SystemInfo import BoxInfo
 	BOX = BoxInfo.getItem("machinebuild")
-except:
+except ImportError:
 	from boxbranding import getBoxType
 	BOX = getBoxType()
 
