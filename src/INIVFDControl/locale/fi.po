@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenATV\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-11 19:27+0430\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2021-06-11 21:08+0300\n"
 "Last-Translator: tomppaa <http://www.huoltovalikko.com/>\n"
 "Language-Team: tomppaa\n"
@@ -13,35 +13,46 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 2.4.2\n"
 
+#: ../plugin.py:181
 msgid "7-LED Display Setup"
 msgstr "7-LED Näytön Asetukset"
 
+#: ../plugin.py:26
 msgid "Always off"
 msgstr "Aina pois päältä"
 
+#: ../plugin.py:193
 msgid "Cancel"
 msgstr "Peruuta"
 
+#: ../plugin.py:26
 msgid "Channelnumber in Standby Clock"
 msgstr "Kanavannumero valmiustilassa"
 
+#: ../plugin.py:26
 msgid "Channelnumber in Standby off"
 msgstr "Kanavanumero pois päältä valmiustilassa"
 
+#: ../plugin.py:26
 msgid "Channelnumber/Clock in Standby Clock"
 msgstr "Kanavanumero/kello valmiustilassa"
 
+#: ../plugin.py:26
 msgid "Clock always"
 msgstr "Kello aina"
 
+#: ../plugin.py:267
 msgid "LED Display Setup"
 msgstr "LED Display Einstellungen"
 
+#: ../plugin.py:194
 msgid "Save"
 msgstr "Tallenna"
 
+#: ../plugin.py:206 ../plugin.py:220
 msgid "Show on display"
 msgstr "Näytä näytöllä"
 
+#: ../plugin.py:208
 msgid "Time mode"
 msgstr "Aikatila"

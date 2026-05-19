@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2018-07-30 21:56+0200\n"
 "Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
 "Language-Team: french\n"
@@ -14,35 +14,46 @@ msgstr ""
 "X-Generator: Poedit 2.1.1\n"
 "X-Poedit-SourceCharset: iso-8859-15\n"
 
+#: ../plugin.py:181
 msgid "7-LED Display Setup"
 msgstr "7-LED Configuration de l'affichage"
 
+#: ../plugin.py:26
 msgid "Always off"
 msgstr "Toujours éteinte"
 
+#: ../plugin.py:193
 msgid "Cancel"
 msgstr "Annuler"
 
+#: ../plugin.py:26
 msgid "Channelnumber in Standby Clock"
 msgstr "Numéro de canal dans l'horloge de veille"
 
+#: ../plugin.py:26
 msgid "Channelnumber in Standby off"
 msgstr "Numéro de canal en veille éteint"
 
+#: ../plugin.py:26
 msgid "Channelnumber/Clock in Standby Clock"
 msgstr "Numéro de Canal/Horloge dans l’horloge de veille"
 
+#: ../plugin.py:26
 msgid "Clock always"
 msgstr "Horloge toujours"
 
+#: ../plugin.py:267
 msgid "LED Display Setup"
 msgstr "Configuration de l'affichage LED"
 
+#: ../plugin.py:194
 msgid "Save"
 msgstr "Sauver"
 
+#: ../plugin.py:206 ../plugin.py:220
 msgid "Show on display"
 msgstr "Afficher sur l'écran"
 
+#: ../plugin.py:208
 msgid "Time mode"
 msgstr "Mode heure"
